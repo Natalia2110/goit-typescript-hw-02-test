@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import css from "./ImageCard.module.css";
 import { Image } from "../App/App.types";
 import { FC } from "react";
